@@ -21,7 +21,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: linear-gradient(rgba(3, 4, 7, 0.48), rgba(5, 10, 30, 0.48)), url('https://github.com/KodeGo-Bootcamp/HTML-Activity-Images/blob/main/pexels-royal-anwar-450214.jpg?raw=true');
+    background-image: linear-gradient(rgba(3, 4, 7, 0.48), rgba(5, 10, 30, 0.48)), url('https://avatars.githubusercontent.com/u/101638556?v=4');
     background-size: cover;
     background-position: center;
 }
