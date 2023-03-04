@@ -422,7 +422,7 @@ footer {
 
    
 
-   .portfolio__img img{
+   .portfolio_img img{
         width: 70%;
         height: 280px;
         margin: 0 auto;
@@ -447,4 +447,3 @@ footer {
         flex-basis: 100%;
     }
 } 
-}
