@@ -173,8 +173,9 @@ nav ul li a {
 .portfolio__btn {
     background-color: #45893A;
     color: #fff;
-    height: 84px;
-    width: 287px;
+    height: 100px;
+    width: 400px;
+    margin-bottom: auto;
     border-radius: 10px;
     text-decoration: none;
     padding: .5% 1%;
